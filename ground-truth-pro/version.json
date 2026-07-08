@@ -1,7 +1,7 @@
 {
-    "version": "1.1.0",
-    "release_date": "2026-06-10",
+    "version": "1.2.0",
+    "release_date": "2026-07-08",
     "min_supported_version": "1.0.0",
-    "download_url": "https://github.com/jordylee18/app-releases/releases/download/v1.1.0/GroundTruthPro-Setup-v1.1.0.exe",
-    "changelog": "PDF Export cleanup, Tolerance Band bug fix"
+    "download_url": "https://github.com/jordylee18/app-releases/releases/download/v1.2.0/GroundTruthPro-Setup-v1.2.0.exe",
+    "changelog": "Big Fixes, FG Grading added"
 }
