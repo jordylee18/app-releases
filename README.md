@@ -6,7 +6,7 @@ GroundTruth Pro computes elevation deltas between survey control points and refe
 
 ## Download
 
-**[Download GroundTruth Pro v1.2.0 (Windows Installer)](https://github.com/jordylee18/app-releases/releases/download/v1.2.0/GroundTruthPro-Setup-v1.2.0.exe)**
+**[Download GroundTruth Pro v1.2.1 (Windows Installer)](https://github.com/jordylee18/app-releases/releases/download/v1.2.1/GroundTruthPro-Setup-v1.2.1.exe)**
 
 Or browse all versions on the [Releases](https://github.com/jordylee18/app-releases/releases) page.
 
